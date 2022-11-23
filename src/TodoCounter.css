@@ -1,0 +1,19 @@
+.TodoCounter {
+    font-size: 24px;
+    text-align: center;
+    margin: 0;
+    padding: 48px;
+    color: white;
+
+  }
+  .TodoTitle {
+    font-size: 35px;
+    text-align: center;
+    margin: 0;
+    padding: 48px;
+    color: white;
+  }
+
+  .cheqicon{
+    color: #4caf50;
+  }
