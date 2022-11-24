@@ -27,7 +27,7 @@ import React from 'react';
         setError(error);
       }
   
-    }, 2000);
+    }, 3000);
   });
   
     const saveItem = (newItem) =>{

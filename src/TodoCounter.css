@@ -2,18 +2,31 @@
     font-size: 24px;
     text-align: center;
     margin: 0;
-    padding: 48px;
-    color: white;
+    padding-bottom: 40px;
+    color: rgba(255, 255, 255, 0.9);
+    text-shadow: 2px 2px 4px #000000;
 
   }
   .TodoTitle {
-    font-size: 35px;
+    font-size: 80px;
     text-align: center;
     margin: 0;
-    padding: 48px;
-    color: white;
+    padding: 0px;
+    color: rgba(255, 255, 255, 0.9);
+    margin-top: 50px;
+  
+
   }
 
   .cheqicon{
-    color: #4caf50;
+    color: rgba(255, 255, 255, 0.9);
+    filter: drop-shadow(2px 2px 4px #000000);
+  }
+  .TodoTitle2 {
+    font-size: 24px;
+    text-align: center;
+    margin-top: 10px;
+    color: rgba(255, 255, 255, 0.9);
+    text-shadow: 2px 2px 4px #000000;
+
   }

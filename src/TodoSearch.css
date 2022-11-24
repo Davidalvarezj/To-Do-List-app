@@ -1,10 +1,10 @@
 .TodoSearch {
-    background: rgba(0, 0, 0, 0.1);
-    border-radius: 5px;
-    border: 2px solid white;
-    margin: 0 24px;
+    background: rgba(0, 0, 0, 0.4);
+    border: 1px solid rgba(255, 255, 255, 0.21);
+
+    margin: 0 10%;
     height: 64px;
-    width: calc(70% - 62px);
+    width: calc(80%);
     font-size: 24px;
     text-align: center;
     font-family: 'Montserrat';
@@ -12,6 +12,9 @@
     color: whitesmoke;
     box-shadow: 0px 5px 50px rgba(32, 35, 41, 0.25);
     backdrop-filter: blur(3.5px);
+    border-radius: 10px;
+    margin-bottom: 20px;
+    
 
   }
   

@@ -1,6 +1,6 @@
 import React from 'react';
 import './TodoSearch.css';
-
+import { FaSearch } from "react-icons/fa"
 
 
 //---- Define estado inicial de input en "" 
@@ -18,7 +18,7 @@ function onSearchValueChange(event){
 
 return (
    
-    <input className = "TodoSearch" placeholder='Busqueda' onChange={onSearchValueChange}></input>
+    <input className = "TodoSearch" placeholder="Search..." onChange={onSearchValueChange}></input>
 
 )
 

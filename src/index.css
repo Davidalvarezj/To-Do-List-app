@@ -8,10 +8,11 @@ body {
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
+
 }
 
 #root {
   margin: 0 24px;
   position: relative;
-  min-height: 100vh;
+  height: 100vh ;
 }

@@ -9,8 +9,9 @@ function TodoCounter({total , completed}){
 
 return (
 <section>   
-    <h2 className = 'TodoTitle'>Activity List <FaCheckCircle className = 'cheqicon' /></h2>
-    <h2 className = 'TodoCounter'>Has completado {completed} de {total} To Do</h2>
+    <h2 className = 'TodoTitle'><FaCheckCircle className = 'cheqicon' /></h2>
+    <h1 className = 'TodoTitle2'>You have completed:</h1>
+    <h2 className = 'TodoCounter'> {completed} tasks, out of {total}.</h2>
 </section>     
 )
 

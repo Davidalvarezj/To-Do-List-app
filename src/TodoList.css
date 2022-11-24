@@ -1,7 +1,17 @@
 ul {
     margin: 0;
-    padding: 0 0 56px 0;
+    padding: 0 0 30px 0;
     list-style: none;
+  }
+
+  ul li:hover {
+    background: rgba(0, 0, 0, 0.2);
+    transition: all 1s ease;
+    transform: scale(1.05);
+  }
+  ul li {
+    transition: all 2s ease;
+    transform: scale(1);
   }
 
 
