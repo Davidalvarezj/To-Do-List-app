@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "//To-Do-List-app/static/css/main.0c88483e.css",
+    "main.js": "//To-Do-List-app/static/js/main.57a6ec54.js",
+    "static/media/pexels-asad-photo-maldives-1591373.jpg": "//To-Do-List-app/static/media/pexels-asad-photo-maldives-1591373.73e3f9e650fb6b45783a.jpg",
+    "index.html": "//To-Do-List-app/index.html",
+    "main.0c88483e.css.map": "//To-Do-List-app/static/css/main.0c88483e.css.map",
+    "main.57a6ec54.js.map": "//To-Do-List-app/static/js/main.57a6ec54.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0c88483e.css",
+    "static/js/main.57a6ec54.js"
+  ]
+}
